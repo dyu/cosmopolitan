@@ -12,3 +12,4 @@ __pycache__
 /bx_enh_dbg.ini
 /tool/emacs/*.elc
 /usr/share/dict/words
+/dist
